@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Swati 
-- 👀 I’m interested in full stack development
-- 🌱 currently learning android development.
+- 👀 I’m into full stack development
 - 💞️ looking to contribute in open source project 
 - 📫  www.linkedin.com/in/swati-p-a7808820a .
 
